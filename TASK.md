@@ -4,7 +4,7 @@ Consider that wrapper will be used by several junior developers on several diffe
 
 ## Technology stack.
 You are free to choose any PHP framework or create wrapper without any.
-PHP version should be 5.6+ including 7.2 beta.
+PHP version should be 5.6+ including 7.2.
 
 ## ETA.
 This task shoudn't take too much time so estimate is 1 hour after framework setup (if any)
