@@ -7,7 +7,7 @@ You are free to choose any PHP framework or create wrapper without any.
 PHP version should be 5.6+ including 7.2.
 
 ## ETA.
-This task shoudn't take too much time so estimate is 1 hour after framework setup (if any)
+This task shoudn't take too much time so estimate is 2-3 hours after framework setup (if any)
 
 ## Additional information.
 You are not strictly required to write unit/acceptance tests but it will be a plus.
